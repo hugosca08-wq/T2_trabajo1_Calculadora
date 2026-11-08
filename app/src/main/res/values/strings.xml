@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">¿Compensa el desvío?</string>
+    <string name="titulo_app">¿Compensa el desvío?</string>
+    <string name="autor">Autor: Tu Nombre</string>
+    <string name="descripcion_app">Esta aplicación te dice si merece la pena desviarte de tu ruta para repostar en una gasolinera más barata.\n\nIntroduces los litros, los precios de las dos gasolineras, los kilómetros extra y el consumo de tu coche. La app calcula cuánto ahorras y descuenta lo que gastas en el desvío.</string>
+    <string name="boton_ir_calculadora">Ir a la calculadora</string>
+    <string name="boton_volver">Volver al inicio</string>
+    <string name="boton_calcular">Calcular</string>
+    <string name="hint_litros">Litros a repostar</string>
+    <string name="hint_precio_habitual">Precio gasolinera habitual (€/l)</string>
+    <string name="hint_precio_barata">Precio gasolinera barata (€/l)</string>
+    <string name="hint_km">Km extra del desvío (ida y vuelta)</string>
+    <string name="hint_consumo">Consumo del coche (l/100 km)</string>
+    <string name="resultado_vacio">El resultado aparecerá aquí</string>
+    <string name="error_campos_vacios">Rellena todos los campos</string>
+    <string name="error_valores">Los valores deben ser mayores que 0</string>
+    <string name="error_precios">La gasolinera barata debe tener un precio menor que la habitual</string>
+    <string name="resultado_ahorro">Te ahorras %1$.2f € en total</string>
+    <string name="resultado_perdida">No compensa: pierdes %1$.2f €</string>
+</resources>

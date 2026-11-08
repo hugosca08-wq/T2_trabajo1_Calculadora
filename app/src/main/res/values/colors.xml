@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titulo_texto">#FFFFFF</color>
+    <color name="titulo_fondo">#E65100</color>
+    <color name="degradado_inicio">#FFB74D</color>
+    <color name="degradado_fin">#E65100</color>
+    <color name="texto">#212121</color>
+    <color name="resultado_fondo">#CCFFFFFF</color>
+</resources>
